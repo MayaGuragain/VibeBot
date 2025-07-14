@@ -1,0 +1,77 @@
+/* App.css */
+
+.container {
+  min-height: 100vh;
+  width: 100vw;
+  padding: 2rem;
+  color: #000000;
+  transition: background 0.5s ease;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.title {
+  font-size: 2rem;
+}
+
+.color-input {
+  margin: 1rem;
+  width: 100px;
+  height: 50px;
+  border: none;
+  cursor: pointer;
+}
+
+.button {
+  padding: 0.5rem 1rem;
+  font-size: 1rem;
+  border-radius: 10px;
+  border: none;
+  background: #000000;
+  color: #fff;
+  cursor: pointer;
+  margin-bottom: 1rem;
+}
+
+.button:disabled {
+  cursor: not-allowed;
+  opacity: 0.6;
+}
+
+.result-card {
+  max-width: 500px;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 1rem 2rem;
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+}
+
+.result-title {
+  font-size: 2rem;
+}
+
+.flavor-text {
+  font-style: italic;
+  margin: 1rem 0;
+}
+
+.explanation {
+  margin-top: 1rem;
+  font-size: 0.9rem;
+}
+
+.read-mood-button {
+  margin-top: 1rem;
+  padding: 0.4rem 1rem;
+  font-size: 0.9rem;
+  border-radius: 8px;
+  border: none;
+  background: #000000;
+  color: #fff;
+  cursor: pointer;
+}
