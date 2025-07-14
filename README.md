@@ -76,8 +76,8 @@ VibeBot/
 │   └── requirements.txt
 ├── frontend/
 │   ├── src/
-│   │   └── App.tsx            # Main React component
-│   ├── App.css                # Global styles
+│   │   ├──  App.tsx           # Main React component
+│   │   └──  App.css           # Global styles                
 │   └── index.html
 └── README.md
 ```
