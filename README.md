@@ -103,9 +103,8 @@ When you click **"🔊 Read My Mood"**, your browser will read the current vibe 
 
 ---
 
-## 💡 Inspiration
-
-
+## 💡 Demo
+Demo video: [https://www.youtube.com/watch?v=4q2QsFbeEIA](https://www.youtube.com/watch?v=4q2QsFbeEIA)
 
 ---
 
