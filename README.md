@@ -1,6 +1,6 @@
 # 🎨 VibeBot
 
-VibeBot is a full-stack AI powered app that transforms a color into a unique mood. It gives you a vibe score, a Spotify playlist, a mood emoji, a custom gradient background, a fortune cookie message, and even an AI explanation. It’s like a fortune teller, mood board, and playlist curator all in one.
+VibeBot is a full-stack AI powered app that transforms a color into a unique mood. It gives you a vibe score, a Spotify playlist, a mood emoji, a custom gradient background, a fortune cookie message, and even an AI explanation. It’s like a fortune teller, mood board, and playlist curator all in one!
 
 ---
 
